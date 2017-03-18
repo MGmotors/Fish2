@@ -65,3 +65,5 @@ Build/*
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
+
+*_BuiltData.uasset
